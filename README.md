@@ -4,7 +4,7 @@
 <!-- Add your details -->
 ✉️: email_id@xxxxx.com 
 &nbsp;&nbsp; 📲 ++ 65 9831 1351
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://sg.linkedin.com/in/yc-ng) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
@@ -24,6 +24,7 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+#Professional_Certs
 
 <!-- ABOUT Section Ends -->
 
@@ -83,3 +84,4 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+#Professional_Certs
